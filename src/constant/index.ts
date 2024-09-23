@@ -246,7 +246,7 @@ export const mainFoods = [
     id: "15",
     label: "رب پلو",
     desc: "برنج، رب انار، گردو، کشمش، شکر و پیاز مواد تشکیلدهنده این غذای شیرازی به شمار میروند.",
-    image: "s/foods/Rob-plo.jpeg",
+    image: "/foods/Rob-plo.jpeg",
   },
   {
     id: "16",
@@ -363,7 +363,7 @@ export const goats = [
     label: "شاه داعی الله",
     description:
       "باکویه شیرازی یا علی ابوعبدالله ابن باکویه که به باباکوهی نیز نامدار است از شاعران ایرانی است.",
-    image: "goats/Shah-daei-allah.jpeg",
+    image: "/goats/Shah-daei-allah.jpeg",
   },
   {
     id: "14",
